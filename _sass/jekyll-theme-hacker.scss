@@ -74,7 +74,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #8be9fd;
 }
 
 #downloads .btn {
@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h6 {
   font-size: 12px;
   text-transform: uppercase;
-  color: #999;
+  color: #f8f8f2;
   margin: 0 0 5px 0;
 }
 
@@ -149,11 +149,11 @@ blockquote {
 }
 
 pre {
-  background: rgba(0, 0, 0, 0.9);
+  background: #0c0d13;
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
-  color: #b5e853;
+  color: #50fa7b;
   border-radius: 2px;
   word-wrap: normal;
   overflow: auto;
@@ -176,7 +176,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #50fa7b;
   padding: 5px 10px;
 }
 
@@ -187,8 +187,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
-  color: #b5e853;
+  border-bottom: 1px dashed #50fa7b;
+  color: #50fa7b;
 }
 
 /* Buttons
@@ -233,7 +233,7 @@ hr {
 */
 
 a {
-  color: #63c0f5;
+  color: #8be9fd;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
